@@ -1,0 +1,10 @@
+@charset "UTF-8";
+
+
+@media (width > 1024px) {
+	.box{
+		width: 384px;
+		height: 610px;
+		padding: 40px;
+	}
+}

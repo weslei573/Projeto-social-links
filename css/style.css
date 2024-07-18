@@ -61,7 +61,7 @@ body{
 	flex-direction: column;
 	justify-content: center;
 	align-items: center;
-	gap: 12px;
+	gap: 10px;
 }
 
 .box .descrisao > h1 {
@@ -80,6 +80,7 @@ body{
 	flex-direction: column;
 	align-items: center;
 	gap: 20px;
+	width: 100%;
 }
 
 .box .links > p {
@@ -100,7 +101,6 @@ body{
 
 .box .links .lista-links > li{
 	background-color: var(--Grey700);
-	width: 100%;
 	text-align: center;
 	padding: 14px;
 	border-radius: 6px;
