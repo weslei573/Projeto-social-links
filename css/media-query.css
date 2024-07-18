@@ -8,4 +8,8 @@
 		padding: 40px;
 		gap: 26px;
 	}
+
+	.box .descrisao{
+		gap: 12px;
+	}
 }
